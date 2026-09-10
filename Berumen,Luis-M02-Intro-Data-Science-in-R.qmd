@@ -184,8 +184,8 @@ For my own learning, I would rather become comfortable with R first and understa
 
 ## GitHub Repository
 
-**GitHub Repository:** [M02 project repository](https://github.com/Brahhmen55/school)
+**GitHub Repository:** [M02 project repository](https://github.com/Brahhmen55/IBM6500)
 
 ## Published GitHub Pages Report
 
-**GitHub Pages:** [REPLACE THIS TEXT WITH YOUR PUBLISHED GITHUB PAGES URL](https://example.com)
+**GitHub Pages:** [Published M02 Reflection](https://brahhmen55.github.io/IBM6500/)
